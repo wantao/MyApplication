@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\android_learn\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="D:\android_learn\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_c043c893dccda81aaab4a85c57ac6928351073b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_learn\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="D:\android_learn\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_fbcb5c52c185fee8b55325564e8174c5b11b93f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android-studio\A_SDK\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="D:\android_learn\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_fc95b2eca0d5be2b268e73705f851fd38f0a9234\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_learn\MyApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a657b44b34ad46bd0bba20fdb0d84d4ca51b56d">
+        <dex dex="D:\android_learn\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_86f48644d6b290f9e4891126c86b26e33431ddbb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_learn\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\android_learn\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_b2385d87c64727306316a332cb08d55bd5be7b16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_learn\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="D:\android_learn\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_568a264757b91a564409ee53894ef319e6f9d9aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_learn\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="D:\android_learn\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_aa1e3a26de68ea18abe866ac330bb3c1a9fc2612\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_learn\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="D:\android_learn\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_48e6e4e1c4b42f69d19af98c0c91db0f61d1a3de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_learn\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="D:\android_learn\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_0b4d3c46250fa9a664f5fafed6c0bd29e257918d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_learn\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="D:\android_learn\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_5ebd1c3b66a3341b20f80fdfc2ce4d97c6dc941d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_learn\MyApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="D:\android_learn\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_e4e2875e2b6a431525ff713b9062e56eda76495f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_learn\MyApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd18cf36f1ca8be09f9f0383a07e6e4f308d0368">
+        <dex dex="D:\android_learn\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b7a7f1808dc08af739a461ed94c6ca1c26388bfa\classes.dex" />
+    </item>
+
+</items>

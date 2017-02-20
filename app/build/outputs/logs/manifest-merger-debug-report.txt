@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\android_learn\MyApplication\app\src\main\AndroidManifest.xml:2:1-20:12
+ADDED from D:\android_learn\MyApplication\app\src\main\AndroidManifest.xml:2:1-21:12
 	package
 		ADDED from D:\android_learn\MyApplication\app\src\main\AndroidManifest.xml:3:5-47
 		INJECTED from D:\android_learn\MyApplication\app\src\main\AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from D:\android_learn\MyApplication\app\src\main\AndroidManifest.xml:2:1-2
 		INJECTED from D:\android_learn\MyApplication\app\src\main\AndroidManifest.xml
 		INJECTED from D:\android_learn\MyApplication\app\src\main\AndroidManifest.xml
 application
-ADDED from D:\android_learn\MyApplication\app\src\main\AndroidManifest.xml:5:5-18:19
+ADDED from D:\android_learn\MyApplication\app\src\main\AndroidManifest.xml:5:5-19:19
 MERGED from [com.android.support:appcompat-v7:25.1.1] D:\android_learn\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:25.1.1] D:\android_learn\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-fragment:25.1.1] D:\android_learn\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\AndroidManifest.xml:25:5-20
@@ -48,6 +48,10 @@ category#android.intent.category.LAUNCHER
 ADDED from D:\android_learn\MyApplication\app\src\main\AndroidManifest.xml:15:17-77
 	android:name
 		ADDED from D:\android_learn\MyApplication\app\src\main\AndroidManifest.xml:15:27-74
+activity#com.example.taowan.myapplication.DisplayMessageActivity
+ADDED from D:\android_learn\MyApplication\app\src\main\AndroidManifest.xml:18:9-69
+	android:name
+		ADDED from D:\android_learn\MyApplication\app\src\main\AndroidManifest.xml:18:19-57
 uses-sdk
 INJECTED from D:\android_learn\MyApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:25.1.1] D:\android_learn\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\AndroidManifest.xml:21:5-23:78
